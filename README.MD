@@ -28,7 +28,7 @@ Utilisez un navigateur HTTP pour accéder au WSDL généré par le service web.
 ```bash
 http://127.0.0.1:8989/?wsdl
 ```
-![](./screenshots/wsdl.png)
+![](./screenshots/WSDL.png)
 
 ### 4. Tester le Web Service
 Utilisez un outil comme SoapUI ou Oxygen pour tester les opérations du service web en utilisant le WSDL.
